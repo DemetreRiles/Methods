@@ -40,7 +40,7 @@ namespace Methods
             try
             {
                 // Writes user name to console
-                Console.WriteLine("Your name is " + name);
+                Console.WriteLine("Hello " + name + " !");
 
                 // Ask for user input to exit program
                 Console.WriteLine("Press any key to exit...");
